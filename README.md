@@ -10,7 +10,7 @@
 
 <div align="center">
  <h2>Languages and Tools</h2>
- <img src="https://skillicons.dev/icons?i=css,html,js,ts,mongodb,discord,cloudflare,github,nodejs,python" />
+ <img src="https://skillicons.dev/icons?i=css,html,js,mongodb,discord,cloudflare,github,nodejs,python" />
 </div>
 
 <div align="center">
